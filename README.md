@@ -10,4 +10,4 @@ No pirated copies of the book will be uploaded here for copyight reasons.
 Sec. 3.2.2:
 `AddTwo.asm` already included in the `Project32` folder, so no need to type again. Or one may just move all existing `.asm` files to another folder, and do step 3 in the beginning of the section.
 
-And do unzip 20MB+ Irvine.zip and put it in C root directory, or a dependency error occurs when building the project.
+And do unzip 20MB+ `Irvine.zip` and put it in C root directory, or a dependency error occurs when building the project.

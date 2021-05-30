@@ -21,7 +21,7 @@ You should do two things before doing the project, or errors and unexpected thin
 
 ![image](https://user-images.githubusercontent.com/5285681/120089799-2186b780-c130-11eb-8711-7dd09e83a9b6.png?v=4&s=500)
 
-If you are using Windows 10, just push `Start` button and type `enviorn`, the first settings option appeared in the search result should be it:
+If you are using Windows 10, just push `Start` button and type `enviorn`. The first settings option appeared in the search result should be it:
 
 ![image](https://user-images.githubusercontent.com/5285681/120089832-732f4200-c130-11eb-9118-5b4331fc2426.png?v=4&s=500)
 

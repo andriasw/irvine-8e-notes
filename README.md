@@ -9,7 +9,7 @@ I am actually new to any kind of programming at all (tried C, Java, Python here 
 
 ## Chapter 03
 
-Sec. 3.2.2:
+### Sec. 3.2.2:
 
 You should do two things before doing the project, or errors and unexpected things happen:
 

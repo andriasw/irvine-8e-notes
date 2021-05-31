@@ -17,7 +17,7 @@ I am actually new to any kind of programming at all (tried C, Java, Python here 
 
 I am not talking about technical prerequsites here. This repo serves mostly as a sidenote rather than a complete companion guide, which means that you should buy the book before making use of this repo. And of course I am not trying to make this repo another tutorial on assembly language. Not for now at least.
 
-Generally speaking, there are two types of materials available from [the author](http://asmirvine.com/). One is code source files and supporting library (`Irvine32` for instance), the other being [video lectures and tutorials called VideoNotes](https://media.pearsoncmg.com/ph/esm/ecs_irvine_x86_8/cw/#videonotes) on Pearson's website.
+Generally speaking, there are two types of materials available from [the author](http://asmirvine.com/). One is code source files and supporting library (`Irvine32` for instance), the other being [video lectures and tutorials called VideoNotes](https://media.pearsoncmg.com/ph/esm/ecs_irvine_x86_8/cw/#videonotes) on Pearson's website which are based on the seventh edition of the Book. I keep [a list](VideoNote%20to%20Sections.md) of the corresponding sections to these videos.
 
 In terms of review questions, there were no choices in the seventh edition of the book, but the eighth edition has. The interactive version of the book even contains answers for most of these review questions. So here is [my compilation of the answers](Answers%20to%20Review%20Questions.md).
 
@@ -26,3 +26,4 @@ In terms of review questions, there were no choices in the seventh edition of th
 ### Sec. 3.2.2: [Notes on Section 3.2.2.md](Notes%20on%20Section%203.2.2.md)
 
   * Issues about Visual Studio configurations and included paths before you begin with the project files from the book.
+  * Corresponding VideoNote: https://mediaplayer.pearsoncmg.com/assets/4LPjdEBThxZkh5LRyOQZu5VM9T3eKsnv

@@ -3,11 +3,15 @@ Reading, learning and coding based on Irvine's assembly language book (8e, Chine
 
 ## Disclaimer
 
-I am in China, so I bought the Chinese reprint. If you are in China, please consider buying the reprint instead of using (or using only) pirated digital copies, one of the reasons being Pearson has stopped releasing PDFs with print layout ([related news report here](https://www.usnews.com/news/education-news/articles/2019-07-15/textbook-giant-pearson-makes-major-shift-away-from-print-to-digital)), and I would refer to the book using page numbers of the reprint, including [the errata list I keep](Errata.md).
+### About the Book
 
-There is a Chinese translation the the eighth edition coming later this year, and according to what the publisher (China Machine Press) said in the 'recommended books' section at the end of the reprint, it would be available in the first half of the year. Despite that, I highly recommend buying the original English reprint rather than the translated version.
+* I am in China, so I bought the Chinese reprint. If you are in China, please consider buying the reprint instead of using (or using only) pirated digital copies, one of the reasons being Pearson has stopped releasing PDFs with print layout ([related news report here](https://www.usnews.com/news/education-news/articles/2019-07-15/textbook-giant-pearson-makes-major-shift-away-from-print-to-digital)), and I would refer to the book using page numbers of the reprint, including [the errata list I keep](Errata.md).
 
-No pirated copies of the book will be uploaded here for copyright reasons.
+* There is a Chinese translation the the eighth edition coming later this year, and according to what the publisher (China Machine Press) said in the 'recommended books' section at the end of the reprint, it would be available in the first half of the year. Despite that, I highly recommend buying the original English reprint rather than the translated version.
+
+* No pirated copies of the book will be uploaded here for copyright reasons.
+
+### About myself
 
 I am actually new to any kind of programming at all (tried C, Java, Python here and there but am really at an elementary level), so if any technical or non-technical issues are found in this project, please do not hesitate and point it out using comments or anything git-related (no, I don't know git stuff either).
 

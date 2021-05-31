@@ -17,7 +17,7 @@ I am not talking about technical prerequsites here. This repo serves mostly as a
 
 Generally speaking, there are two types of materials available from [the author](http://asmirvine.com/). One is code source files and supporting library (`Irvine32` for instance), the other being [video lectures and tutorials called VideoNotes](https://media.pearsoncmg.com/ph/esm/ecs_irvine_x86_8/cw/#videonotes) on Pearson's website.
 
-In terms of review questions, there were no choices in the seventh edition of the book, but the eighth edition has. The interactive version of the book even contains answers for most of these review questions. So here is [my compilation of the answers](Answers%20to%20Review%20Questions.md)
+In terms of review questions, there were no choices in the seventh edition of the book, but the eighth edition has. The interactive version of the book even contains answers for most of these review questions. So here is [my compilation of the answers](Answers%20to%20Review%20Questions.md).
 
 ## Chapter 03
 

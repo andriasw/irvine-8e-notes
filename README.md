@@ -13,7 +13,7 @@ I am actually new to any kind of programming at all (tried C, Java, Python here 
 
 ## Before you begin
 
-I am not talking about technical prerequsites here. This repo serves mostly as a sidenote rather than a complete companion guide, which means that you should buy the book before making use of this repo.
+I am not talking about technical prerequsites here. This repo serves mostly as a sidenote rather than a complete companion guide, which means that you should buy the book before making use of this repo. And of course I am not trying to make this repo another tutorial on assembly language. Not for now at least.
 
 Generally speaking, there are two types of materials available from [the author](http://asmirvine.com/). One is code source files and supporting library (`Irvine32` for instance), the other being [video lectures and tutorials called VideoNotes](https://media.pearsoncmg.com/ph/esm/ecs_irvine_x86_8/cw/#videonotes) on Pearson's website.
 

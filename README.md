@@ -7,7 +7,7 @@ I am in China, so I bought the Chinese reprint. If you are in China, please cons
 
 There is a Chinese translation the the eighth edition coming later this year, and according to what the publisher (China Machine Press) said in the 'recommended books' section at the end of the reprint, it would be available in the first half of the year. Despite that, I highly recommend buying the original English reprint rather than the translated version.
 
-No pirated copies of the book will be uploaded here for copyight reasons.
+No pirated copies of the book will be uploaded here for copyright reasons.
 
 I am actually new to any kind of programming at all (tried C, Java, Python here and there but am really at an elementary level), so if any technical or non-technical issues are found in this project, please do not hesitate and point it out using comments or anything git-related (no, I don't know git stuff either).
 

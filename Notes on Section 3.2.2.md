@@ -1,6 +1,6 @@
 You should do two things before doing the project, or errors and unexpected things happen:
 
-1. Unzip 20MB+ `Irvine.zip` available at [author's website](http://asmirvine.com/) and put it in **C root directory**, or [a dependency (or something else) error](https://www.chegg.com/homework-help/questions-and-answers/m-trying-set-vs-2019-work-masm-getting-error-cannot-open-file--ideas-masm-checked-build-de-q72206451) occurs when building the project:
+1. Unzip 20MB+ `Irvine.zip` available at [author's website](http://asmirvine.com/) and put it in **C root directory**`C:\`, or [a dependency (or something else) error](https://www.chegg.com/homework-help/questions-and-answers/m-trying-set-vs-2019-work-masm-getting-error-cannot-open-file--ideas-masm-checked-build-de-q72206451) occurs when building the project:
 
   * ![image](https://user-images.githubusercontent.com/5285681/120089535-03b85300-c12e-11eb-85b8-b9fa916a31a7.png?v=4&s=500)
 

@@ -9,4 +9,4 @@ I am actually new to any kind of programming at all (tried C, Java, Python here 
 
 ## Chapter 03
 
-### Sec. 3.2.2: [Notes on Section 3.2.2.md](Notes on Section 3.2.2.md)
+### Sec. 3.2.2: [Notes on Section 3.2.2.md](Notes\ on\ Section\ 3.2.2.md)

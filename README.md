@@ -3,7 +3,7 @@ Reading, learning and coding based on Irvine's assembly language book (8e, Chine
 
 ## Disclaimer
 
-I am in China, so I bought the Chinese reprint. If you are in China, please consider buying the reprint instead of using (or using only) pirated digital copies, one of the reasons being Pearson has stopped releasing PDFs with print layout.
+I am in China, so I bought the Chinese reprint. If you are in China, please consider buying the reprint instead of using (or using only) pirated digital copies, one of the reasons being Pearson has stopped releasing PDFs with print layout, and I would refer to the book using page numbers of the reprint, including [the errata list I keep](Errata.md).
 
 There is a Chinese translation the the eighth edition coming later this year, and according to what the publisher (China Machine Press) said in the 'recommended books' section at the end of the reprint, it would be available in the first half of the year. Despite that, I highly recommend buying the original English reprint rather than the translated version.
 
@@ -14,6 +14,10 @@ I am actually new to any kind of programming at all (tried C, Java, Python here 
 ## Before you begin
 
 I am not talking about technical prerequsites here. This repo serves mostly as a sidenote rather than a complete companion guide, which means that you should buy the book before making use of this repo.
+
+Generally speaking, there are two types of materials available from [the author](http://asmirvine.com/). One is code source files and supporting library (`Irvine32` for instance), the other being [video lectures and tutorials called VideoNotes](https://media.pearsoncmg.com/ph/esm/ecs_irvine_x86_8/cw/#videonotes) on Pearson's website.
+
+In terms of review questions, there were no choices in the seventh edition of the book, but the eighth edition has. The interactive version of the book even contains answers for most of these review questions. So here is my compilation of the answers: [Answers to Review Questions.md](Answers%20to%20Review%20Questions.md)
 
 ## Chapter 03
 
